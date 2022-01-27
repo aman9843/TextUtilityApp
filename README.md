@@ -1,4 +1,4 @@
-**(News App May Not Run because of News app Api is used which will not rendered itself against any live server it will only rendered in localhost......)**
+
 
 
 
